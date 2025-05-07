@@ -1,3 +1,6 @@
+Riquelme Medina IGR 0058
+Infante Zuñiga IGR 0058
+
 Explicación de patrones aplicados:
 
 •	Singleton: Se implementó en la clase ConfiguracionEvento para asegurar que solo exista una única configuración del evento en toda la aplicación. Esto se logró creando una instancia estática y un constructor privado, 
